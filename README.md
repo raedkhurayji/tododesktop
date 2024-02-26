@@ -1,4 +1,4 @@
 # tododesktop
 
 ## Setting Up the Project
-''' python -m venv venv '''
+``` python -m venv venv ```
